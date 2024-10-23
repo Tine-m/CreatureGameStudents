@@ -17,7 +17,7 @@ public class CreatureGenerator {
         //creatures.add(new Dragon("Puff"));
         //creatures.add(new Spider("Peter"));
         //creatures.add(new Dragon("Smaug"));
-        creatures.add(new OldMan("Gandalf"));
+        creatures.add(new OldMan("Emil"));
         creatures.add(new Daddy("Abbas"));
         creatures.add(new Skeleton("Thomas"));
         creatures.add(new Goblin("Philip-Mikkel"));
